@@ -10,9 +10,8 @@ how to install
 
 how to use
 ============
-    toby:~ ays                                                                                                                                      [16:48:33]
-    [ays] You must specify a command to run!
-    toby:~ ays sudo apt-get install htop                                                                                                            [16:48:34]
+    toby:~ ays
+    toby:~ ays sudo apt-get install htop
     [ays] Command entered: `sudo apt-get install htop`
     Are you sure you want to run this?  Type 'yes' to proceed: yes
     [ays] Running command `sudo apt-get install htop`...
