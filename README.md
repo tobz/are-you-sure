@@ -6,7 +6,7 @@ a program to help you avoid fat fingering those important, potentially career-de
 how to install
 ============
     go get github.com/tobz/are-you-sure
-    ln -s $GOPATH/bin/are-you-sure /usr/bin/ays
+    sudo ln -s $GOPATH/bin/are-you-sure /usr/local/bin/ays
 
 how to use
 ============
